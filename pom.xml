@@ -13,6 +13,7 @@
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <vaadin.version>8.0.0.alpha2</vaadin.version>
         <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
+        <cobertura.version>2.7</cobertura.version>
     </properties>
 
     <repositories>
@@ -153,6 +154,7 @@
 			<artifactId>xml-security-impl</artifactId>
 			<version>1.0</version>
 		</dependency>
+
 
 
 		</dependencies>
